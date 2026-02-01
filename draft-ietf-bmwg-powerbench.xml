@@ -536,7 +536,7 @@
     <t>Collect the data for all the traffic loads and apply the formula of 
 	  <xref target="terms" />. For example, with all DUT ports operating stably under a percentage
 	  of the maximum throughput (e.g. 100%, 30%, 0%), record the average input power and 
-	  calculate the total weighted power P and then the EER .</t>
+	  calculate the total weighted power P and then the EER.</t>
 
     <t>The stabilization interval and measurement interval used to obtain the recorded average input power MUST be reported as described in <xref target="report" />.</t>
     
